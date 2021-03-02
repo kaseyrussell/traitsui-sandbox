@@ -1,0 +1,17 @@
+name: traitsui-sandbox
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - numpy
+    - pandas
+    - matplotlib
+    - ipython
+    - scipy
+    - pyqt
+    - openpyxl
+    - traitsui
+    - pyqtchart
+    - importlib_resources
+
+
