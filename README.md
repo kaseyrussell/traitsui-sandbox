@@ -9,3 +9,5 @@ embedding matplotlib (which I like for static plots), but every time I make a GU
 speed. Here I'm trying to use faster plotting packages with TraitsUI to see if they're a workable alternative. I'll 
 start with PyQtChart.
 
+Here's a successful embed example from [traitsui_pyqtchart.py](traitsui_pyqtchart.py):
+![screen capture of traitsui_pyqtchart.py](traitsui_pyqtchart.png)
